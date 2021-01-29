@@ -7,7 +7,7 @@ The Guardian's recent news article "[WhatsApp users are really Facebook customer
 A
 
 A
-## Article 02: WhatsApp Users Will Largely Enjoy The Same Experience That They Already Love
+## Article 02: WhatsApp Users Will Largely Enjoy The Same Old Experience
 In contrast to the first article, Campaign US's writing piece "[WhatsApp’s new data policy is not as scary as it sounds for brands or users](https://www.campaignlive.com/article/whatsapps-new-data-policy-not-scary-sounds-brands-users/1705677)" takes less of a negative approach and argues that the policy does not really change things for the vast majority of users. Rather, the greater sharing of data is likely to actually improve consumer experience.
 
 A
